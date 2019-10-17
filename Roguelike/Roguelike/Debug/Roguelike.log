@@ -1,0 +1,20 @@
+﻿  Dungeon.cpp
+h:\2019s1\programming4\wangh21\project1-roguelike\roguelike\roguelike\dungeon.cpp(52): warning C4101: 'roomW': unreferenced local variable
+h:\2019s1\programming4\wangh21\project1-roguelike\roguelike\roguelike\dungeon.cpp(53): warning C4101: 'roomH': unreferenced local variable
+h:\2019s1\programming4\wangh21\project1-roguelike\roguelike\roguelike\dungeon.cpp(55): warning C4101: 'roomY': unreferenced local variable
+h:\2019s1\programming4\wangh21\project1-roguelike\roguelike\roguelike\dungeon.cpp(54): warning C4101: 'roomX': unreferenced local variable
+  KnightSprite.cpp
+  MyForm.cpp
+h:\2019s1\programming4\wangh21\project1-roguelike\roguelike\roguelike\myform.cpp(9): warning C4551: function call missing argument list
+  Room.cpp
+  Sprite.cpp
+h:\2019s1\programming4\wangh21\project1-roguelike\roguelike\roguelike\sprite.cpp(84): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  SpriteList.cpp
+  Tile.cpp
+  TileMap.cpp
+  TileSet.cpp
+  Viewport.cpp
+  Generating Code...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Dungeon.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Roguelike.vcxproj -> H:\2019S1\programming4\wangh21\project1-roguelike\Roguelike\Debug\Roguelike.exe
