@@ -1,3 +1,4 @@
-# Roguelike
+# Programming 4 Assignment
 
-A Roguelike game wirte by c++ CLI which is Programming 4 assignment
+1. Roguelike game C++ CLI
+2. Ruby MastermindWord
